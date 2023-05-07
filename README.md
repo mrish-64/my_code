@@ -16,6 +16,7 @@ Visual Studio Code
 * Date: 2022-08-16T05:35:13.448Z
 
 * OS: Windows_NT x64 10.0.14393 (which is Not case sensitive)
+
 #HowTo use
 1. Copy the whole directory structure to your "D:\My_Code"
 2. Only set the value of hardcoded parameters in optimize.py (optional) and run the `D:\My_Code\optimize.py` file.
