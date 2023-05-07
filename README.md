@@ -20,7 +20,7 @@ Visual Studio Code
 # HowTo use
 1. Copy the whole directory structure to your "D:\My_Code"
 2. Only set the value of hardcoded parameters in optimize.py (optional) and run the `D:\My_Code\optimize.py` file.
-3. Each embedded swarm algorithm parameters are in its directory and relevant .py file (i.e. D:\my_code\_HHO\HHO.py)
+3. Each embedded swarm algorithm parameters are in its directory and relevant .py file (i.e. "D:\my_code\_HHO\HHO.py")
 4. The swarm* parameters are in the optimize.py file .
 5. To select the benchmark function use `D:\my_code\functions.py` and there set the default argument.
 6. We said sub-search-space, "don't care (dc)" in this source code.
