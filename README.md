@@ -25,7 +25,7 @@ Visual Studio Code
 5. To select the benchmark function use `D:\my_code\functions.py` and there set the default argument.
 6. We said sub-search-space, "don't care (dc)" in this source code.
 7. You can change the stride parameter from line 199. 
-8. Number of processes is set to number of your CPU cores.
-9. You can change the dimension and solution length from line 14.(In the paper we use dimension=10 and length=310) 
+8. Number of processes is set to the number of your CPU cores.
+9. You can change the dimension and solution length from line 14. (In the paper we use dimension=10 and length=310) 
 ## Selecting the swarm algorithm to use
 In lines 160-166 uncomment the preferred swarm algorithm line and comment on all the other swarm name lines.
