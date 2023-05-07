@@ -17,7 +17,7 @@ Visual Studio Code
 
 * OS: Windows_NT x64 10.0.14393 (which is Not case sensitive)
 
-#HowTo use
+# HowTo use
 1. Copy the whole directory structure to your "D:\My_Code"
 2. Only set the value of hardcoded parameters in optimize.py (optional) and run the `D:\My_Code\optimize.py` file.
 3. Each embedded swarm algorithm parameters are in its directory and relevant .py file (i.e. D:\my_code\_HHO\HHO.py)
