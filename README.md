@@ -5,6 +5,7 @@ In this project, the source code of the swarm* is presented. We recommend first 
 python 3.10.6 64 bit
 ## Local Packages Installed
 matplotlib==3.5.3
+
 numpy==1.23.2
 > Use `pip install` to install the packages
 ## IDE info
